@@ -13,9 +13,11 @@ section {
 .half-w {
     width: 50%;
     padding-left: 10%;
+    padding-bottom: 20px;
 }
 .half-w img {
-    width: 80%;
+    width: 100%;
+    padding-top: 20px;
 }
 a {
     background-color: blue;
